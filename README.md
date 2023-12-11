@@ -27,16 +27,4 @@
 
 <a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Karim-off &repo=Adriel-Bot-MD-MD&theme=merko)</a>
 <a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Karim-off &repo=Ari-Bot-MD &theme=merko)</a>
-<a href="https://github.com/Karim-off/Adriel-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
-
-<h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
-
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=omni)</a>
-<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=omni)</a>
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
-<a href="https://github.com/DIEGO-OFC/Zirax-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DIEGO-OFC&repo=Zirax-Bot-MD&theme=merko)</a>
-<a href="https://github.com/BrunoSobrino/SimpleBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=SimpleBot&theme=omni)</a>
-<a href="https://github.com/Yesenia57/NeKoTinaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Yesenia57&repo=NeKoTinaBot-MD&theme=omni)</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+<a href="https://github.com/Karim-off/Adriel-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Karim-off &repo=Adriel-Bot-MD&theme=merko)</a>
