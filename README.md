@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Karim-off
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Karim-off/Karim-off is a ✨ special ✨ repository because its `README.md` (t
+¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
+"La constancia vence lo que la dicha no alcanza."
+
+❤️ Espero te encuentres bien 🌸
+🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
+Si desea contactarme lo puede hacer sólo por Instagram
+
+Typing SVG
+  Gmail Facebook 
+
+Typing SVG
+
+ GataNina-Li
+
+Typing SVG
+
+github card github card github card github card github card
+
+Typing SVG
+
+github card github card github card github card github card github card github card github card
+
