@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<img src="views/Pre Bot Publi.png" alt="GataBot-MD" width="900"/>
+<img src="https://github.com/Karim-off.png" alt="GataBot-MD" width="900"/>
 </p>
