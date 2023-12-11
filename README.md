@@ -25,9 +25,9 @@
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=LoliBot-MD&theme=merko)</a>
-<a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD-V2&theme=merko)</a>
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
+<a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Karim-off &repo=Adriel-Bot-MD-MD&theme=merko)</a>
+<a href="https://github.com/Karim-off">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Karim-off &repo=Ari-Bot-MD &theme=merko)</a>
+<a href="https://github.com/Karim-off/Adriel-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
 
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
