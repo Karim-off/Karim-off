@@ -41,7 +41,7 @@
 
 
 ## `𝗢𝗪𝗡𝗘𝗥 𝙆𝘼𝙍𝙄𝙈 𝗚𝗕` 
-<a href="[https://github.com/Karim-off-GB-Isis777]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Ender"/></a>
+<a href="[https://github.com/Karim-off]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Ender"/></a>
 
 <p align="center">
 <img src="https://github.com/Karim-off.png" alt="GataBot-MD" width="900"/>
