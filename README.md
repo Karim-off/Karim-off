@@ -11,7 +11,7 @@
 
 
 
-💻¡Hola! bienvenido a (KarimGB) mi peril 💻
+💻¡Hola! bienvenido a (Karim) mi peril 💻
 
 👑información Personal Un poco sobre mi y lo que me gusta 👑
 
@@ -29,7 +29,7 @@
 🎵🎧🌎💱♻️🎁🧩📈
 
 
-💠colaborador de Curiosity Bots MD , HACHIKO BOTS , Turbo Bots 💠
+💠colaborador de DylanBot-MD , AleBot-MD 💠
 
 👑mi Instagram: https://www.instagram.com/usxr_karim/
 
