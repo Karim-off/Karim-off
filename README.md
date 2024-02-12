@@ -31,7 +31,7 @@
 
 💠colaborador de Curiosity Bots MD , HACHIKO BOTS , Turbo Bots 💠
 
-👑mi Facebook: https://www.facebook.com/ender.josue.982
+👑mi Instagram: https://www.instagram.com/usxr_karim/
 
 
 🍓pronto mas redes donde podras contactame🍓
@@ -41,7 +41,7 @@
 
 
 ## `𝗢𝗪𝗡𝗘𝗥 𝙆𝘼𝙍𝙄𝙈 𝗚𝗕` 
-<a href="[https://github.com/Karim-off]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Ender"/></a>
+<a href="[https://github.com/Karim-off]"><img src="https://github.com/Karim-off.png" width="100" height="100" alt="Ender"/></a>
 
 <p align="center">
 <img src="https://github.com/Karim-off.png" alt="GataBot-MD" width="900"/>
