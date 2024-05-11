@@ -46,7 +46,7 @@
 
 <!-- Enlaces a Redes Sociales -->
 <a href="https://www.youtube.com/channel/UCjS8HOwW6KQpkVmZSa3N2-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
-<a href="wa.me/59897246324" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-1877F2?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
+<a href="wa.me/59897246324" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
 <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 <!-- Sección de Estadísticas Personales -->
