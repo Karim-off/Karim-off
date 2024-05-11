@@ -53,7 +53,7 @@
 <h2 align="center">ESTADÍSTICAS PERSONALES</h2>
 <div align="center">
   <a href="https://github.com/karim-off/">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidprospero123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=karim-off&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
   </a>
   <br><br>
 </div>
@@ -62,6 +62,6 @@
 <h2 align="center">MI PROYECTO DESTACADO</h2>
 <p align="center">
   <a href="https://github.com/karim-off/RubyBot-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidprospero123&repo=REM-CHAM&theme=merko" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidprospero123&repo=RubyBot-MD&theme=merko" width="400"/>
   </a>
 </p>
