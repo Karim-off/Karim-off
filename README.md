@@ -3,7 +3,8 @@
 <a href="views/Pre Bot Publi.png"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=Karim-off++🌸; DISFRUTA+DE+MIS+REPOSITORIOS.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
-<a href="https://api.whatsapp.com/send/?phone=59168683798&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
+<a href="https://api.whatsapp.com/send/?phone=59168683798&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img 
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
 
 
 <!-- Enlaces a Redes Sociales -->
