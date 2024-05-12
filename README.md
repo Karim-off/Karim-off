@@ -11,9 +11,6 @@
  <a href="http://www.instagram.com/usxr_angelito" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://api.whatsapp.com/send/?phone=59897246324&text=Hola 👋 soporte de Xia Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
-
-<a href="https://m.facebook.com/fg98f" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
-
 </p> 
 
 
