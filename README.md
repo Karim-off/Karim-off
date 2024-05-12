@@ -38,3 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale-rmz&repo=SammyBot-MD&theme=merko" width="400"/>
   </a>
 </p>
+  <a href="https://github.com/sebastian9944/REM-CHAM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian9944&repo=REM-CHAM&theme=merko" width="400"/>
+  </a>
+</p>
