@@ -35,6 +35,6 @@
 <h2 align="center">COLABORADOR DE </h2>
 <p align="center">
   <a href="https://github.com/ale-rmz/SammyBot-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-off&repo=SammyBot-MD&theme=merko" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale-rmz&repo=SammyBot-MD&theme=merko" width="400"/>
   </a>
 </p>
