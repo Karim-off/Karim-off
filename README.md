@@ -32,9 +32,9 @@
 </p>
 
 <!-- Colaborador De-->
-<h2 align="center">MI PROYECTO DESTACADO</h2>
+<h2 align="center">COLABORADOR DE </h2>
 <p align="center">
-  <a href="https://github.com/karim-off/RubyBot-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-off&repo=RubyBot-MD&theme=merko" width="400"/>
+  <a href="https://github.com/ale-rmz/SammyBot-MD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-off&repo=SammyBot-MD&theme=merko" width="400"/>
   </a>
 </p>
