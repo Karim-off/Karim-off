@@ -14,13 +14,6 @@
 </p> 
 
 
-<a href="https://api.whatsapp.com/send/?phone=59897246324&text=Hola 👋 soporte de Xia Bot &type=phone_number&app_absent=0" target="blank"><img 
-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
-
-<a href="https://api.telegram.com/send/?phone=59897246324&text=Hola 👋 soporte de Xia Bot &type=phone_number&app_absent=0" target="blank"><img 
-src="https://img.shields.io/badge/Telegram-25D366?style=for-the-badge&logo=Telegram &logoColor=white" alt="Telegram"/></a>  
-
-
 <!-- Sección de Estadísticas Personales -->
 <h2 align="center">ESTADÍSTICAS PERSONALES</h2>
 <div align="center">
