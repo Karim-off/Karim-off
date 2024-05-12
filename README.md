@@ -8,8 +8,9 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Whats
 
 
 <!-- Enlaces a Redes Sociales -->
-<a href="https://www.youtube.com/channel/UCjS8HOwW6KQpkVmZSa3N2-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
-<a href="wa.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://api.whatsapp.com/send/?phone=59897246324&text=Hola 👋 soporte de Xia Bot &type=phone_number&app_absent=0" target="blank"><img 
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a> href="wa.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
 <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 <!-- Sección de Estadísticas Personales -->
